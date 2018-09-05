@@ -1,0 +1,15 @@
+article.intro::before { background-image: url("../img/intro.jpg"); }
+article.summary::before { background-image: url("../img/summary.gif"); }
+article.context::before { background-image: url("../img/context.gif"); }
+article.context-when::before { background-image: url("../img/context-when.gif"); }
+article.context-what::before { background-image: url("../img/context-what.gif"); }
+article.context-trust::before { background-image: url("../img/context-trust.webp"); }
+article.context-rotten::before { background-image: url("../img/context-rotten.gif"); }
+article.projet::before { background-image: url("../img/dispositifs.webp"); }
+article.projet-base::before { background-image: url("../img/projet-base.webp"); }
+article.projet-sujet::before { background-image: url("../img/projet-sujet.gif"); }
+article.projet-contrainte::before { background-image: url("../img/projet-contrainte.webp"); }
+article.projet-finalite::before { background-image: url("../img/projet-finalite.webp"); }
+article.projet-duree::before { background-image: url("../img/projet-duree.webp"); }
+article.motivations::before { background-image: url("../img/motivations.webp"); }
+article.end::before { background-image: url("../img/end.webp"); }
