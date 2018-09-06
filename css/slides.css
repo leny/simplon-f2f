@@ -12,4 +12,13 @@ article.projet-contrainte::before { background-image: url("../img/projet-contrai
 article.projet-finalite::before { background-image: url("../img/projet-finalite.webp"); }
 article.projet-duree::before { background-image: url("../img/projet-duree.webp"); }
 article.motivations::before { background-image: url("../img/motivations.webp"); }
+article.motivations-reprise::before { background-image: url("../img/motivation-reprise.webp"); }
+article.motivations-refactor::before { background-image: url("../img/motivations-refactor.webp"); }
+article.motivations-retours::before { background-image: url("../img/motivations-retours.webp"); }
+article.motivations-process::before { background-image: url("../img/motivations-process.webp"); }
+article.conclusions::before { background-image: url("../img/conclusions.webp"); }
+article.conclusions-principes::before { background-image: url("../img/conclusions-principes.webp"); }
+article.conclusions-competences::before { background-image: url("../img/conclusions-competences.webp"); }
+article.conclusions-questions::before { background-image: url("../img/conclusions-questions.webp"); }
+article.conclusions-savoir-faire::before { background-image: url("../img/conclusions-savoir-faire.webp"); }
 article.end::before { background-image: url("../img/end.webp"); }
