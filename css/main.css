@@ -18,9 +18,9 @@ article::before, article::after {
   background-position: center center;
   background-repeat: no-repeat;
   content: "";
-  -webkit-filter: grayscale(0.3) brightness(0.3);
-  -moz-filter: grayscale(0.3) brightness(0.3);
-  filter: grayscale(0.3) brightness(0.3);
+  -webkit-filter: grayscale(0.3) brightness(0.4);
+  -moz-filter: grayscale(0.3) brightness(0.4);
+  filter: grayscale(0.3) brightness(0.4);
 }
 
 article::before {
@@ -76,6 +76,7 @@ article.intermission .content img {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
+  text-shadow: 0 0 25px black;
 }
 
 html .content {
